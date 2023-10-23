@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "sort.h"
 /**
  * bubble_sort - It works by comparing 2 adjacent elements
